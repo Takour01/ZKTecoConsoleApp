@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\bin\Debug\ZKTecoConsoleApp.exe.config
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\bin\Debug\ZKTecoConsoleApp.exe
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\bin\Debug\ZKTecoConsoleApp.pdb
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\obj\Debug\ZKTecoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\obj\Debug\ZKTecoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\obj\Debug\ZKTecoConsoleApp.exe
+C:\Users\LENOVO\source\repos\ZKTecoConsoleApp\ZKTecoConsoleApp\obj\Debug\ZKTecoConsoleApp.pdb
